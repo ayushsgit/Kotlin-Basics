@@ -91,7 +91,7 @@ private fun myFun(name : String){
     println("Hello this is my Function and my name is $name")
 }
 
-/*/home/luffy/.jdks/openjdk-20.0.2/bin/java -javaagent:/home/luffy/idea-IC-232.9921.47/lib/idea_rt.jar=45385:/home/luffy/idea-IC-232.9921.47/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /home/luffy/IdeaProjects/AppKotlin/out/production/AppKotlin:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.0/kotlin-stdlib-jdk8-1.9.0.jar:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.0/kotlin-stdlib-1.9.0.jar:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.0/kotlin-stdlib-common-1.9.0.jar:/home/luffy/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.0/kotlin-stdlib-jdk7-1.9.0.jar MainKt
+%% /home/luffy/.jdks/openjdk-20.0.2/bin/java -javaagent:/home/luffy/idea-IC-232.9921.47/lib/idea_rt.jar=45385:/home/luffy/idea-IC-232.9921.47/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /home/luffy/IdeaProjects/AppKotlin/out/production/AppKotlin:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.0/kotlin-stdlib-jdk8-1.9.0.jar:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.0/kotlin-stdlib-1.9.0.jar:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.0/kotlin-stdlib-common-1.9.0.jar:/home/luffy/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/home/luffy/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.0/kotlin-stdlib-jdk7-1.9.0.jar MainKt
 hello World!!!
 Call me maybe
 -3
@@ -122,4 +122,4 @@ GROW
 Hello this is my Function and my name is Luffy
 
 Process finished with exit code 0
-*/
+%%
